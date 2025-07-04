@@ -2,7 +2,13 @@
 
 
 
-https://github.com/user-attachments/assets/39516788-a0f8-4cc4-ad8f-688f1744f5c6
+<div align="center">
+  <video width="600" controls>
+    <source src="https://github.com/user-attachments/assets/39516788-a0f8-4cc4-ad8f-688f1744f5c6" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 
 
 This project is a Python-based bot that automatically searches for and downloads images of whatever you ask it for. It's designed to help automate image collection for offline use or machine learning datasets.
