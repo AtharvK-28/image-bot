@@ -1,4 +1,5 @@
-##Image Bot
+## Image Bot
+
 
 This project is an AI model that searches for images, downloads them, and stores them in a designated folder. It utilizes web scraping techniques to gather image URLs and then downloads the images for offline use.
 
