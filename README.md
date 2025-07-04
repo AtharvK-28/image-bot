@@ -2,12 +2,9 @@
 
 
 
-<div align="center">
-  <video width="600" controls>
-    <source src="https://github.com/user-attachments/assets/39516788-a0f8-4cc4-ad8f-688f1744f5c6" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+
+  https://github.com/user-attachments/assets/39516788-a0f8-4cc4-ad8f-688f1744f5c6
+  
 
 
 
