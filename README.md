@@ -1,6 +1,10 @@
 ## Image Bot
 
 
+
+https://github.com/user-attachments/assets/39516788-a0f8-4cc4-ad8f-688f1744f5c6
+
+
 This project is a Python-based bot that automatically searches for and downloads images of whatever you ask it for. It's designed to help automate image collection for offline use or machine learning datasets.
 
 ## Project Structure
