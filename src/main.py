@@ -5,7 +5,7 @@ from image_search import ImageSearch
 from downloader import ImageDownloader
 
 def main():
-    names = ["Cat","Elephant","Tiger","Giraffe","Panda","Kangaroo","Koala",]
+    names = ["",] # List of names to search for images
     base_folder = r"C:\Users\Acer\Desktop\Atharv Projects\image\demo"
     num_images = 1  # Number of images per name
 
@@ -25,8 +25,7 @@ def main():
             continue
 
         print(f"Found {len(image_urls)} images. Downloading to '{base_folder}'...")
-        # Extract first name after "IPL headshot "
-        player_name = name.replace("IPL headshot ", "").split()[0]
+        player_name = name
         for idx, url in enumerate(image_urls, 1):
             filename = f"{player_name}_{idx}.jpg"
             image_downloader.download_image(url, base_folder, filename)
