@@ -5,7 +5,7 @@ from image_search import ImageSearch
 from downloader import ImageDownloader
 
 def main():
-    names = ["",] # List of names to search for images
+    names = [""] # List of names to search for images
     base_folder = r"C:\Users\Acer\Desktop\Atharv Projects\image\demo"
     num_images = 1  # Number of images per name
 
