@@ -6,7 +6,7 @@ from downloader import ImageDownloader
 
 def main():
     names = [""] # List of names to search for images
-    base_folder = r"C:\Users\Acer\Desktop\Atharv Projects\image\demo"
+    base_folder = os.path.join(os.path.expanduser("~"), "Desktop", "image-bot-demo")
     num_images = 1  # Number of images per name
 
     if not os.path.exists(base_folder):
